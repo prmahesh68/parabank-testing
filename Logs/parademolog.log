@@ -1,0 +1,80 @@
+2020-04-12 15:53:40: INFO: Browser Opening browserhandling 36
+2020-04-12 15:53:49: INFO: Database cleaned cleardatabase 93
+2020-04-12 15:53:58: INFO: Browser Opening browserhandling 36
+2020-04-12 15:54:12: INFO: Logout Sucessful logout 113
+2020-04-12 15:54:15: INFO: Closing browser logout 115
+2020-04-12 15:54:23: INFO: Browser Opening browserhandling 36
+2020-04-12 15:54:28: INFO: Login Sucessful login 105
+2020-04-12 15:54:34: INFO: Logout Sucessful logout 113
+2020-04-12 15:54:37: INFO: Closing browser logout 115
+2020-04-12 15:54:44: INFO: Browser Opening browserhandling 36
+2020-04-12 15:54:49: INFO: Login Sucessful login 105
+2020-04-12 15:55:00: INFO: Logout Sucessful logout 113
+2020-04-12 15:55:03: INFO: Closing browser logout 115
+2020-04-12 15:55:13: INFO: Browser Opening browserhandling 36
+2020-04-12 15:55:18: INFO: Login Sucessful login 105
+2020-04-12 15:55:41: INFO: Logout Sucessful logout 113
+2020-04-12 15:55:44: INFO: Closing browser logout 115
+2020-04-12 15:55:52: INFO: Browser Opening browserhandling 36
+2020-04-12 15:55:57: INFO: Login Sucessful login 105
+2020-04-12 15:56:21: INFO: Logout Sucessful logout 113
+2020-04-12 15:56:24: INFO: Closing browser logout 115
+2020-04-12 15:56:24: INFO: Saving account not created testsavingsaccont 157
+2020-04-12 15:56:32: INFO: Browser Opening browserhandling 36
+2020-04-12 15:56:37: INFO: Login Sucessful login 105
+2020-04-12 15:57:06: INFO: Logout Sucessful logout 113
+2020-04-12 15:57:09: INFO: Closing browser logout 115
+2020-04-12 15:57:09: INFO: Bill pay sucessful testpaybill 186
+2020-04-12 15:57:16: INFO: Browser Opening browserhandling 36
+2020-04-12 15:57:21: INFO: Login Sucessful login 105
+2020-04-12 15:57:34: INFO: Insufficent funds transferaccount 200
+2020-04-12 15:57:38: INFO: Logout Sucessful logout 113
+2020-04-12 15:57:41: INFO: Closing browser logout 115
+2020-04-12 15:57:41: INFO: Account transfer not sucessful testamounttransfer 206
+2020-04-12 16:04:58: INFO: Browser Opening browserhandling 36
+2020-04-12 16:05:06: INFO: Database cleaned cleardatabase 93
+2020-04-12 16:05:15: INFO: Browser Opening browserhandling 36
+2020-04-12 16:05:28: INFO: Logout Sucessful logout 113
+2020-04-12 16:05:31: INFO: Closing browser logout 115
+2020-04-12 16:05:41: INFO: Browser Opening browserhandling 36
+2020-04-12 16:05:46: INFO: Login Sucessful login 105
+2020-04-12 16:05:52: INFO: Logout Sucessful logout 113
+2020-04-12 16:05:55: INFO: Closing browser logout 115
+2020-04-12 16:06:02: INFO: Browser Opening browserhandling 36
+2020-04-12 16:06:07: INFO: Login Sucessful login 105
+2020-04-12 16:06:13: INFO: account overview written to xls file accountoverview 140
+2020-04-12 16:06:13: INFO: No of accounts currenty accountoverview 141
+2020-04-12 16:06:16: INFO: Logout Sucessful logout 113
+2020-04-12 16:06:19: INFO: Closing browser logout 115
+2020-04-12 16:06:31: INFO: Browser Opening browserhandling 36
+2020-04-12 16:06:37: INFO: Login Sucessful login 105
+2020-04-12 16:06:43: INFO: account overview written to xls file accountoverview 140
+2020-04-12 16:06:43: INFO: No of accounts currenty accountoverview 141
+2020-04-12 16:06:56: INFO: account overview written to xls file accountoverview 140
+2020-04-12 16:06:56: INFO: No of accounts currenty accountoverview 141
+2020-04-12 16:07:00: INFO: Logout Sucessful logout 113
+2020-04-12 16:07:03: INFO: Closing browser logout 115
+2020-04-12 16:07:11: INFO: Browser Opening browserhandling 36
+2020-04-12 16:07:16: INFO: Login Sucessful login 105
+2020-04-12 16:07:22: INFO: account overview written to xls file accountoverview 140
+2020-04-12 16:07:22: INFO: No of accounts currenty accountoverview 141
+2020-04-12 16:07:36: INFO: account overview written to xls file accountoverview 140
+2020-04-12 16:07:36: INFO: No of accounts currenty accountoverview 141
+2020-04-12 16:07:40: INFO: Logout Sucessful logout 113
+2020-04-12 16:07:43: INFO: Closing browser logout 115
+2020-04-12 16:07:43: INFO: Saving account not created testsavingsaccont 157
+2020-04-12 16:07:52: INFO: Browser Opening browserhandling 36
+2020-04-12 16:07:57: INFO: Login Sucessful login 105
+2020-04-12 16:08:03: INFO: account overview written to xls file accountoverview 140
+2020-04-12 16:08:03: INFO: No of accounts currenty accountoverview 141
+2020-04-12 16:08:26: INFO: Logout Sucessful logout 113
+2020-04-12 16:08:29: INFO: Closing browser logout 115
+2020-04-12 16:08:29: INFO: Bill pay sucessful testpaybill 186
+2020-04-12 16:08:40: INFO: Browser Opening browserhandling 36
+2020-04-12 16:08:46: INFO: Login Sucessful login 105
+2020-04-12 16:08:53: INFO: account overview written to xls file accountoverview 140
+2020-04-12 16:08:53: INFO: No of accounts currenty accountoverview 141
+2020-04-12 16:09:00: INFO: Insufficent funds transferaccount 200
+2020-04-12 16:09:08: INFO: Logout Sucessful logout 113
+2020-04-12 16:09:11: INFO: Closing browser logout 115
+2020-04-12 16:09:11: INFO: Account transfer not sucessful testamounttransfer 206
